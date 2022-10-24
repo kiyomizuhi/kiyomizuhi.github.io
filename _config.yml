@@ -32,8 +32,6 @@ github_username: kiyomizuhi
 
 # Build settings
 theme: minima
-kramdown:
-  math_engine: katex
 plugins:
   - jekyll-scholar
   - jekyll-sitemap
