@@ -35,7 +35,7 @@ theme: minima
 kramdown:
   math_engine: katex
 plugins:
-  - jekyll-feerd
+  - jekyll-feed
   - jekyll-katex
   - jekyll-sitemap
   - jekyll-scholar
