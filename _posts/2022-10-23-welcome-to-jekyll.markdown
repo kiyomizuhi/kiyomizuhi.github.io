@@ -8,13 +8,13 @@ katex: True
 
 Here are some words. And this is some math:
 
-{% katexmm %}
+<!-- {% katexmm %}
 $$
 e = mc^2. \tag{1}
 $$
 {% endkatexmm %}
 
-Cool! Cool! Cool!
+Cool! Cool! Cool! -->
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
