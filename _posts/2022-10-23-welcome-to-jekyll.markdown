@@ -7,9 +7,8 @@ katex: true
 ---
 
 Here are some words. And this is some math:
-{% katex %}
-c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
+This is an example of inline \\(\LaTeX\\). The following is Stokes' theorem in a
+`displaymath` environment: \$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\$$
 Cool! Cool! Cool!
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
